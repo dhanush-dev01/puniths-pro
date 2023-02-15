@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+h1{
+  text-align: center;
+}
+.po img{
+  width: 400px;
+}
+.po{
+  position: fixed;
+  right: 35%;
+}
+body{
+  background-color: rgb(61, 61, 182);
+}
